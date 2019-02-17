@@ -1,0 +1,77 @@
+body{
+    background-color: black;
+}
+.wrap{
+    width:100%;
+    margin: 12.5% auto;
+    padding-top: 1% ;
+    padding-bottom: 25%;
+    padding-right:35%;
+    padding-left:2%;
+    background-image: url('../images/dr2.jpeg');
+    background-size:contain;
+    background-repeat: repeat;
+    color:white;
+    border:solid red 2px;
+}
+.wrap h1{
+font-weight: bold;
+font-style: italic;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.wrap p{
+    font-weight: bold;
+    font-style: italic;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      margin-top: 20px;
+      border:black 4px solid;
+     padding-left: 20px;
+     background-color: black;
+    }
+
+    
+p{
+    width:50%;
+}
+
+input{
+    outline:none;
+}
+
+    
+
+    .volume-slider{
+        color: black;
+        margin-top: 80px;
+        margin-right: 10px;
+       
+
+    }
+    .vol{
+       margin-left: 40px;
+    }
+
+.controller{
+    margin-left: 30px;
+    float:left;
+    display: inline-block;
+}
+
+.song-slider{
+    margin-left: 70px;
+  
+}
+
+
+.currentTime{
+    margin-top: -20px;
+    background-color: black;
+    width:350px;
+}
+.duration{
+   margin-left: 220px;
+   margin-top: -20px;
+}
+#art{
+    display: none;
+}
