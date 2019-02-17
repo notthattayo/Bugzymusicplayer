@@ -1,5 +1,5 @@
 
-    var songs = ["Moving.mp3","Memory Lane (Ft. Tom Grennan).mp3","B. Inspired.mp3","Immortal.mp3"];
+    var songs = ["moving.mp3","Memory Lane (Ft. Tom Grennan).mp3","B. Inspired.mp3","Immortal.mp3"];
     var images=["bugzy2.jpg","coverk.jpg","bugzy1.jpg","stereo.jpg"];
     var songslider = document.getElementById("songslider") ;
     var volumeslider = document.getElementById("volumeslider");
